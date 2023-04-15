@@ -1,0 +1,11 @@
+prefix=/media/aditya/DriveOne/learn/python/Practice/django/env
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+toolexeclibdir=${libdir}
+includedir=/media/aditya/DriveOne/learn/python/Practice/django/env/include
+
+Name: libffi
+Description: Library supporting Foreign Function Interfaces
+Version: 3.3
+Libs: -L${toolexeclibdir} -lffi
+Cflags: -I${includedir}

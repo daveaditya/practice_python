@@ -1,0 +1,2 @@
+Hello World!
+Writing a file from python is fun and easy

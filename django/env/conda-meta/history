@@ -1,0 +1,36 @@
+==> 2020-08-17 18:20:14 <==
+# cmd: /opt/miniconda/bin/conda create --prefix ./env django
+# conda version: 4.8.3
++defaults/linux-64::_libgcc_mutex-0.1-main
++defaults/linux-64::ca-certificates-2020.6.24-0
++defaults/linux-64::certifi-2020.6.20-py38_0
++defaults/linux-64::ld_impl_linux-64-2.33.1-h53a641e_7
++defaults/linux-64::libedit-3.1.20191231-h14c3975_1
++defaults/linux-64::libffi-3.3-he6710b0_2
++defaults/linux-64::libgcc-ng-9.1.0-hdf63c60_0
++defaults/linux-64::libstdcxx-ng-9.1.0-hdf63c60_0
++defaults/linux-64::ncurses-6.2-he6710b0_1
++defaults/linux-64::openssl-1.1.1g-h7b6447c_0
++defaults/linux-64::pip-20.2.2-py38_0
++defaults/linux-64::python-3.8.5-hcff3b4d_0
++defaults/linux-64::readline-8.0-h7b6447c_0
++defaults/linux-64::setuptools-49.6.0-py38_0
++defaults/linux-64::sqlite-3.32.3-h62c20be_0
++defaults/linux-64::tk-8.6.10-hbc83047_0
++defaults/linux-64::wheel-0.34.2-py38_0
++defaults/linux-64::xz-5.2.5-h7b6447c_0
++defaults/linux-64::zlib-1.2.11-h7b6447c_3
++defaults/noarch::asgiref-3.2.10-py_0
++defaults/noarch::django-3.0.3-py_0
++defaults/noarch::pytz-2020.1-py_0
++defaults/noarch::sqlparse-0.3.1-py_0
+# update specs: ['django']
+==> 2020-09-08 18:27:26 <==
+# cmd: /opt/miniconda/bin/conda install psycopg2
+# conda version: 4.8.3
+-defaults/linux-64::ca-certificates-2020.6.24-0
++defaults/linux-64::ca-certificates-2020.7.22-0
++defaults/linux-64::krb5-1.17.1-h173b8e3_0
++defaults/linux-64::libpq-12.2-h20c2e04_0
++defaults/linux-64::psycopg2-2.8.5-py38h1ba5d50_0
+# update specs: ['psycopg2']

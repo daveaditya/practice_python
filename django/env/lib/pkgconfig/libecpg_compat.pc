@@ -1,0 +1,9 @@
+Name: libecpg_compat
+Description: PostgreSQL libecpg_compat library
+Url: http://www.postgresql.org/
+Version: 12.2
+Requires: 
+Requires.private: libecpg libpgtypes
+Cflags: -I/media/aditya/DriveOne/learn/python/Practice/django/env/include
+Libs: -L/media/aditya/DriveOne/learn/python/Practice/django/env/lib -lecpg_compat
+Libs.private: -L/media/aditya/DriveOne/learn/python/Practice/django/env/lib -lm

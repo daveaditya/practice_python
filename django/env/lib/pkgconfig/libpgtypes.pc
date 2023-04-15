@@ -1,0 +1,9 @@
+Name: libpgtypes
+Description: PostgreSQL libpgtypes library
+Url: http://www.postgresql.org/
+Version: 12.2
+Requires: 
+Requires.private: 
+Cflags: -I/media/aditya/DriveOne/learn/python/Practice/django/env/include
+Libs: -L/media/aditya/DriveOne/learn/python/Practice/django/env/lib -lpgtypes
+Libs.private: -L/media/aditya/DriveOne/learn/python/Practice/django/env/lib -lm
